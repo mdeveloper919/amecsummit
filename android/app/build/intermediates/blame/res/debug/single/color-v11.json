@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/mobilestar/.android/build-cache/bf12a510aaf7fa487971dbcb7d19809683a1bf44/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/mobilestar/.android/build-cache/bf12a510aaf7fa487971dbcb7d19809683a1bf44/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mobilestar/.android/build-cache/f76b52733b5cfbd9e03b375c0ae60421764ce19d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/pre-dexed/debug/classes_f2e6276e24d115ef97f3c0d62d02c9f9a47b2dff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobilestar/.android/build-cache/fcd64ddc4a4806c4aebbe20b331a56c2fe74a4e6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/pre-dexed/debug/classes_acd9f40457749110b5231015e0bf6ba6895b370c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobilestar/.android/build-cache/1fb31c792ba8837fd7493cd509872601177f050c/output/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_62b8d86d4fc89b6228c6e57e6082befcc451d703.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobilestar/.android/build-cache/69585364b846ef1fbf9f9ce996552decacd44ead/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/pre-dexed/debug/classes_39556564cc28cec08cd885e52f1d326c6fac23a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobilestar/.android/build-cache/f76b52733b5cfbd9e03b375c0ae60421764ce19d/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_d4b92331d81729ca7a1f577aff82f7a5fb544f54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobilestar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_1c8aa8e6aa6322c535e2d0af9145b476a4c1fcdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobilestar/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_59fcb27d24cafc24dd5d3b579ab3e24009bebf8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobilestar/.android/build-cache/914f2b9bf2f8b67598fc78762c4bf1813f798eb2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/pre-dexed/debug/classes_22a9f476dc9952ee076f2ab18e52f599f499b9b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobilestar/.android/build-cache/fd4efe686836c28f56607d6777a58f50fcbff138/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/pre-dexed/debug/classes_5ec024513bf640fa2c02c1b0601a970a59263062.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobilestar/.android/build-cache/bf12a510aaf7fa487971dbcb7d19809683a1bf44/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/pre-dexed/debug/classes_2bd07839d802e8b4f1528e019119d11af89f4865.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobilestar/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_eac734cf153cce36c18be6f8e7e75ba90fe92564.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data-2/tasks/amecsummit/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b319ff9834bbeb9be394687614eb86892699ea14">
+        <dex dex="/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/pre-dexed/debug/classes_d8f1bfa722c236f7b84d7aa23b5247e79a860286.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobilestar/.android/build-cache/131e4b7ac90315eee0c726ceb53eb49fdbee43c1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/pre-dexed/debug/classes_952ff5c7359dd7a77f0e3603be343584f859257b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobilestar/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_27a2d38b34bd3ddb36e76c65d4c43822acc145d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobilestar/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_fafd5cf10af56fda0d4e0c4076aae3461867dc21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobilestar/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_2d52591ec1553d68481ea53f8f7976c37913f871.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data-2/tasks/amecsummit/node_modules/react-native-maps/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dfe415137a847f99a59cee27485aea5dedd9b09c">
+        <dex dex="/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/pre-dexed/debug/classes_63c8ee3fa80036c3aa04ea64ec8391b4068d2228.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobilestar/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_d162baea6a71ca6982e256eb505830b4c1b43124.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobilestar/.android/build-cache/f7bfe73dd9323d70373843b9845093f4b7953058/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/pre-dexed/debug/classes_31116ad71a6713b09232f58d6881fb20b18c49c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobilestar/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_ecc816231ac77679719fb315cd2060c00ca17d52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobilestar/.android/build-cache/1fb31c792ba8837fd7493cd509872601177f050c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="962b06c207e808c0557ffd6163ac584025a96021">
+        <dex dex="/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/pre-dexed/debug/classes_6c0f45524d1f1f2b22c5096f3f57744c41b9959f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data-2/tasks/amecsummit/node_modules/react-native-photo-view/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="84b3eb73e4553d4614543e95933ecb8a4ebcd3b2">
+        <dex dex="/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/pre-dexed/debug/classes_c01b7f561bcc072a5bf2946fecd7d89da60ac7af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobilestar/.android/build-cache/0257020954e849ffb6a7b60712f374ccc269a06a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/pre-dexed/debug/classes_6a8cc7c0d9ba4f574b88b2e0fb768e3c05132c60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobilestar/.android/build-cache/06084c5d4b03949f3e3dbe7cdd20b311cce570c5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/pre-dexed/debug/classes_1ac37d03d8933cc0903b4d94a1bc22ac66480aa3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobilestar/.android/build-cache/8825bfdbb4b7d138f50382ad2f6074031218fb99/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/pre-dexed/debug/classes_376bd5c3e5f78aa0781d0745d5ff7ff268c73b6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobilestar/.android/build-cache/a1e11a9e55177764977926e855a011e8f9a48d21/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/pre-dexed/debug/classes_e4bb88ccec2c47726a3244883f8b50c95f6ae15a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobilestar/.android/build-cache/2c1b9a13453047579c14ab37ab6382b7dd1c2359/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5ceac4d4c5f5559d813fb8e0419203a51b40462">
+        <dex dex="/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/pre-dexed/debug/classes_165a2dc42ee5d9a1a9b4c6a334c3b2ccabc1a656.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data-2/tasks/amecsummit/node_modules/react-native-smart-splash-screen/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1cf1507f4679058ff6af36adc0937a322dc21427">
+        <dex dex="/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/pre-dexed/debug/classes_ec71089f1a6aac4d46d5de064e9419da151cee1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobilestar/.android/build-cache/163cd236bf0143070d0be4f2bc27d30dec5c19c3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/pre-dexed/debug/classes_02d224a08a7fcf119897b5ee3e84d1bd66579489.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobilestar/.android/build-cache/41488b929880ffcfcfc7ed21ba34596ea5e959e1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/pre-dexed/debug/classes_10d3996851c65063de49dd9a78cafeabe53e3eb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobilestar/.android/build-cache/73992ffdf59ee24f3db6ac810bef6fa1bdea3a16/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/pre-dexed/debug/classes_82ea9d3406aa282ff139dba35564f21d3f05a47c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobilestar/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_3ec1384b6657481459c154bcabb506ce2b536927.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobilestar/.android/build-cache/f94b74610f7808ef9175a9f315ff16eddced3106/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/pre-dexed/debug/classes_307776ccb9550f73362de69993a46944b2c1095d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobilestar/.android/build-cache/f30a9e0453193691444ae1e67956ebf4e6b54287/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/pre-dexed/debug/classes_67df3ecb6e5d15548f5185319ce5dd940ef7736f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobilestar/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_63502c880a2a17629074829f445d9d49f742cecd.jar" />
+    </item>
+
+</items>

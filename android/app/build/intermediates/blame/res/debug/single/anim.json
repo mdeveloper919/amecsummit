@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/mobilestar/.android/build-cache/1fb31c792ba8837fd7493cd509872601177f050c/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/mobilestar/.android/build-cache/bf12a510aaf7fa487971dbcb7d19809683a1bf44/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/res/merged/debug/anim/fade_in.xml",
+        "source": "/Users/mobilestar/.android/build-cache/1fb31c792ba8837fd7493cd509872601177f050c/output/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/res/merged/debug/anim/fade_out.xml",
+        "source": "/Users/mobilestar/.android/build-cache/1fb31c792ba8837fd7493cd509872601177f050c/output/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/mobilestar/.android/build-cache/bf12a510aaf7fa487971dbcb7d19809683a1bf44/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/res/merged/debug/anim/slide_up.xml",
+        "source": "/Users/mobilestar/.android/build-cache/1fb31c792ba8837fd7493cd509872601177f050c/output/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/mobilestar/.android/build-cache/bf12a510aaf7fa487971dbcb7d19809683a1bf44/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/mobilestar/.android/build-cache/bf12a510aaf7fa487971dbcb7d19809683a1bf44/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/mobilestar/.android/build-cache/1fb31c792ba8837fd7493cd509872601177f050c/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/mobilestar/.android/build-cache/bf12a510aaf7fa487971dbcb7d19809683a1bf44/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/mobilestar/.android/build-cache/bf12a510aaf7fa487971dbcb7d19809683a1bf44/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/mobilestar/.android/build-cache/bf12a510aaf7fa487971dbcb7d19809683a1bf44/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/mobilestar/.android/build-cache/bf12a510aaf7fa487971dbcb7d19809683a1bf44/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/res/merged/debug/anim/slide_down.xml",
+        "source": "/Users/mobilestar/.android/build-cache/1fb31c792ba8837fd7493cd509872601177f050c/output/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/mobilestar/.android/build-cache/bf12a510aaf7fa487971dbcb7d19809683a1bf44/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Volumes/Data-2/tasks/amecsummit/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/mobilestar/.android/build-cache/bf12a510aaf7fa487971dbcb7d19809683a1bf44/output/res/anim/abc_popup_enter.xml"
+    }
+]
